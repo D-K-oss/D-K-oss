@@ -7,9 +7,9 @@
 ### 📈
 
 <p align="center">
-<a href="https://github.com/Dark4331">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dark4331&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dark4331&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/D-K-oss">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=D-K-oss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D-K-oss&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="center">
